@@ -1,4 +1,4 @@
-# Content: Unsupervised Learning
+# Unsupervised Learning project
 ## Project: Creating Customer Segments
 
 ### Install
