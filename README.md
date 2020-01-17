@@ -15,6 +15,6 @@ This project uses the following software and Python libraries:
 * pandas
 * scikit-learn
 * matplotlib  
-You will also need to have software installed to run and execute a <b>Jupyter Notebook</b>.
+* Jupyter Notebook
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
